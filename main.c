@@ -7,6 +7,7 @@ main()
 //Dodanie zmian na branch 'testing'
   printf("Changes in branch testing\n");
 //Koniec zmian branch 'testing'
+//Kolejna zmiana na testing
 	
 	getchar();
 }
