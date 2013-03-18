@@ -11,4 +11,6 @@ main()
 //Koniec zmian na branch 'master'
 
     getchar();
+	
+	printf("New user\n");
 }
