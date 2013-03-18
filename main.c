@@ -8,6 +8,7 @@ main()
   printf("Changes in branch testing\n");
 //Koniec zmian branch 'testing'
 //Kolejna zmiana na testing
+//Nowa zmiana na testing
 	
 	getchar();
 }
