@@ -2,9 +2,9 @@
 
 main()
 {
-	printf("Hello World!\n");
-	
+	printf("Hello World!\n");	
 	getchar();
+//mala zmiana
 	
 //Dodanie zmian na branch 'master'
   printf("Changes in branch master\m");
